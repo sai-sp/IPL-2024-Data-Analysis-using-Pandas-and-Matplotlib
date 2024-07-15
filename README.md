@@ -2,7 +2,8 @@
 
 # IPL Auction Data Analysis 2024
 
-Welcome to the IPL Data Analysis 2024 repository! This project provides a detailed analysis of the Indian Premier League (IPL) auction data for the 2024 season. The analysis includes insights into about -  """""
+Welcome to the IPL Data Analysis 2024 repository! This project provides a detailed analysis of the Indian Premier League (IPL) auction data for the 2024 season. The analysis includes insights into about -  Importing essential Pyhton Libraries, loading our Data and data glance. Numerical Analysis and Visualisation, converting Datatype of specifc column and Ploting on the Data worked.  
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -16,7 +17,7 @@ Welcome to the IPL Data Analysis 2024 repository! This project provides a detail
 
 ## Introduction
 
-The IPL Auction Data Analysis 2024 project aims to provide actionable insights from the auction data of the 2024 IPL season. By analyzing player s""""""""
+The IPL Auction Data Analysis 2024 project aims to provide actionable insights from the auction data of the 2024 IPL season. By analyzing simple numerical analysis and visualization. 
 
 ## Setup
 
@@ -51,9 +52,9 @@ IPL 2024 Data Analysis using Pandas and Matplotlib.ipynb
 
 The dataset used in this analysis includes:
 
-IPL_players.csv
-TOP_BUYS.csv
-UNSOLD_PLAYERS.csv
+/n IPL_players.csv
+/n TOP_BUYS.csv
+/n UNSOLD_PLAYERS.csv
 
 These three csv files are compressed and available as a Datasets.zip file
 
