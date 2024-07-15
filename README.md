@@ -52,9 +52,9 @@ IPL 2024 Data Analysis using Pandas and Matplotlib.ipynb
 
 The dataset used in this analysis includes:
 
-/n IPL_players.csv
-/n TOP_BUYS.csv
-/n UNSOLD_PLAYERS.csv
+IPL_players.css  
+TOP_BUYS.csv  
+UNSOLD_PLAYERS.csv  
 
 These three csv files are compressed and available as a Datasets.zip file
 
