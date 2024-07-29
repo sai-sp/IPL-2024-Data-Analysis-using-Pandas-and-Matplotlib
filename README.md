@@ -13,7 +13,7 @@ Welcome to the IPL Data Analysis 2024 repository! This project provides a detail
 - [Analysis Details](#analysis-details)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -76,7 +76,6 @@ We welcome contributions to this project! If you have suggestions, improvements,
 Fork the repository and create a new branch.
 Make your changes and ensure that they work correctly.
 Submit a pull request with a clear description of the changes.
-Please refer to the CONTRIBUTING.md file for detailed guidelines on contributing to this project.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
